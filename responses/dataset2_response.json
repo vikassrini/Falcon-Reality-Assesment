@@ -1,1 +1,597 @@
-{"result":[{"strategy":"In-Price Entry","entries":[{"entry_time":"2025-04-09T14:42:14.322704","type":"bullish","entry_price":257.1,"stop_loss":255.2,"tp_level":262.8000000000001},{"entry_time":"2025-04-09T14:57:14.322704","type":"bullish","entry_price":257.9,"stop_loss":256.1,"tp_level":263.29999999999984},{"entry_time":"2025-04-09T15:12:14.322704","type":"bullish","entry_price":258.8,"stop_loss":257.1,"tp_level":263.9},{"entry_time":"2025-04-09T15:27:14.322704","type":"bullish","entry_price":259.8,"stop_loss":257.9,"tp_level":265.5000000000001},{"entry_time":"2025-04-09T15:42:14.322704","type":"bullish","entry_price":260.6,"stop_loss":258.8,"tp_level":266.00000000000006},{"entry_time":"2025-04-09T15:57:14.322704","type":"bullish","entry_price":261.5,"stop_loss":259.8,"tp_level":266.59999999999997},{"entry_time":"2025-04-09T16:12:14.322704","type":"bullish","entry_price":262.5,"stop_loss":260.6,"tp_level":268.19999999999993},{"entry_time":"2025-04-09T16:27:14.322704","type":"bullish","entry_price":263.3,"stop_loss":261.5,"tp_level":268.70000000000005},{"entry_time":"2025-04-09T16:42:14.322704","type":"bullish","entry_price":264.2,"stop_loss":262.5,"tp_level":269.29999999999995},{"entry_time":"2025-04-09T16:57:14.322704","type":"bullish","entry_price":265.2,"stop_loss":263.3,"tp_level":270.8999999999999},{"entry_time":"2025-04-09T17:12:14.322704","type":"bullish","entry_price":266.0,"stop_loss":264.2,"tp_level":271.40000000000003},{"entry_time":"2025-04-09T17:27:14.322704","type":"bullish","entry_price":266.9,"stop_loss":265.2,"tp_level":271.99999999999994},{"entry_time":"2025-04-09T17:42:14.322704","type":"bullish","entry_price":267.9,"stop_loss":266.0,"tp_level":273.5999999999999},{"entry_time":"2025-04-09T17:57:14.322704","type":"bullish","entry_price":268.7,"stop_loss":266.9,"tp_level":274.1},{"entry_time":"2025-04-09T18:12:14.322704","type":"bullish","entry_price":269.6,"stop_loss":267.9,"tp_level":274.70000000000016},{"entry_time":"2025-04-09T18:27:14.322704","type":"bullish","entry_price":270.6,"stop_loss":268.7,"tp_level":276.3000000000001},{"entry_time":"2025-04-09T18:42:14.322704","type":"bullish","entry_price":271.4,"stop_loss":269.6,"tp_level":276.79999999999984},{"entry_time":"2025-04-09T18:57:14.322704","type":"bullish","entry_price":272.3,"stop_loss":270.6,"tp_level":277.4},{"entry_time":"2025-04-09T19:12:14.322704","type":"bullish","entry_price":273.3,"stop_loss":271.4,"tp_level":279.0000000000001},{"entry_time":"2025-04-09T19:27:14.322704","type":"bullish","entry_price":274.1,"stop_loss":272.3,"tp_level":279.50000000000006},{"entry_time":"2025-04-09T19:42:14.322704","type":"bullish","entry_price":275.0,"stop_loss":273.3,"tp_level":280.09999999999997},{"entry_time":"2025-04-09T19:57:14.322704","type":"bullish","entry_price":276.0,"stop_loss":274.1,"tp_level":281.69999999999993},{"entry_time":"2025-04-09T20:12:14.322704","type":"bullish","entry_price":276.8,"stop_loss":275.0,"tp_level":282.20000000000005},{"entry_time":"2025-04-09T20:27:14.322704","type":"bullish","entry_price":277.7,"stop_loss":276.0,"tp_level":282.79999999999995},{"entry_time":"2025-04-09T20:42:14.322704","type":"bullish","entry_price":278.7,"stop_loss":276.8,"tp_level":284.3999999999999},{"entry_time":"2025-04-09T20:57:14.322704","type":"bullish","entry_price":279.5,"stop_loss":277.7,"tp_level":284.90000000000003},{"entry_time":"2025-04-09T21:12:14.322704","type":"bullish","entry_price":280.4,"stop_loss":278.7,"tp_level":285.49999999999994},{"entry_time":"2025-04-09T21:27:14.322704","type":"bullish","entry_price":281.4,"stop_loss":279.5,"tp_level":287.0999999999999},{"entry_time":"2025-04-09T21:42:14.322704","type":"bullish","entry_price":282.2,"stop_loss":280.4,"tp_level":287.6},{"entry_time":"2025-04-09T21:57:14.322704","type":"bullish","entry_price":283.1,"stop_loss":281.4,"tp_level":288.20000000000016},{"entry_time":"2025-04-09T22:12:14.322704","type":"bullish","entry_price":284.1,"stop_loss":282.2,"tp_level":289.8000000000001},{"entry_time":"2025-04-09T22:27:14.322704","type":"bullish","entry_price":284.9,"stop_loss":283.1,"tp_level":290.29999999999984},{"entry_time":"2025-04-09T22:42:14.322704","type":"bullish","entry_price":285.8,"stop_loss":284.1,"tp_level":290.9},{"entry_time":"2025-04-09T22:57:14.322704","type":"bullish","entry_price":286.8,"stop_loss":284.9,"tp_level":292.5000000000001},{"entry_time":"2025-04-09T23:12:14.322704","type":"bullish","entry_price":287.6,"stop_loss":285.8,"tp_level":293.00000000000006},{"entry_time":"2025-04-09T23:27:14.322704","type":"bullish","entry_price":288.5,"stop_loss":286.8,"tp_level":293.59999999999997},{"entry_time":"2025-04-09T23:42:14.322704","type":"bullish","entry_price":289.5,"stop_loss":287.6,"tp_level":295.19999999999993},{"entry_time":"2025-04-09T23:57:14.322704","type":"bullish","entry_price":290.3,"stop_loss":288.5,"tp_level":295.70000000000005},{"entry_time":"2025-04-10T00:12:14.322704","type":"bullish","entry_price":291.2,"stop_loss":289.5,"tp_level":296.29999999999995},{"entry_time":"2025-04-10T00:27:14.322704","type":"bullish","entry_price":292.2,"stop_loss":290.3,"tp_level":297.8999999999999},{"entry_time":"2025-04-10T00:42:14.322704","type":"bullish","entry_price":293.0,"stop_loss":291.2,"tp_level":298.40000000000003},{"entry_time":"2025-04-10T00:57:14.322704","type":"bullish","entry_price":293.9,"stop_loss":292.2,"tp_level":298.99999999999994},{"entry_time":"2025-04-10T01:12:14.322704","type":"bullish","entry_price":294.9,"stop_loss":293.0,"tp_level":300.5999999999999},{"entry_time":"2025-04-10T01:27:14.322704","type":"bullish","entry_price":295.7,"stop_loss":293.9,"tp_level":301.1},{"entry_time":"2025-04-10T01:42:14.322704","type":"bullish","entry_price":296.6,"stop_loss":294.9,"tp_level":301.70000000000016},{"entry_time":"2025-04-10T01:57:14.322704","type":"bullish","entry_price":297.6,"stop_loss":295.7,"tp_level":303.3000000000001},{"entry_time":"2025-04-10T02:12:14.322704","type":"bullish","entry_price":298.4,"stop_loss":296.6,"tp_level":303.79999999999984},{"entry_time":"2025-04-10T02:27:14.322704","type":"bullish","entry_price":299.3,"stop_loss":297.6,"tp_level":304.4},{"entry_time":"2025-04-10T02:42:14.322704","type":"bullish","entry_price":300.3,"stop_loss":298.4,"tp_level":306.0000000000001},{"entry_time":"2025-04-10T02:57:14.322704","type":"bullish","entry_price":301.1,"stop_loss":299.3,"tp_level":306.50000000000006},{"entry_time":"2025-04-10T03:12:14.322704","type":"bullish","entry_price":302.0,"stop_loss":300.3,"tp_level":307.09999999999997},{"entry_time":"2025-04-10T03:27:14.322704","type":"bullish","entry_price":303.0,"stop_loss":301.1,"tp_level":308.69999999999993},{"entry_time":"2025-04-10T03:42:14.322704","type":"bullish","entry_price":303.8,"stop_loss":302.0,"tp_level":309.20000000000005},{"entry_time":"2025-04-10T03:57:14.322704","type":"bullish","entry_price":304.7,"stop_loss":303.0,"tp_level":309.79999999999995},{"entry_time":"2025-04-10T04:12:14.322704","type":"bullish","entry_price":305.7,"stop_loss":303.8,"tp_level":311.3999999999999},{"entry_time":"2025-04-10T04:27:14.322704","type":"bullish","entry_price":306.5,"stop_loss":304.7,"tp_level":311.90000000000003},{"entry_time":"2025-04-10T04:42:14.322704","type":"bullish","entry_price":307.4,"stop_loss":305.7,"tp_level":312.49999999999994},{"entry_time":"2025-04-10T04:57:14.322704","type":"bullish","entry_price":264.5,"stop_loss":306.5,"tp_level":138.5},{"entry_time":"2025-04-10T05:12:14.322704","type":"bearish","entry_price":311.4,"stop_loss":309.6,"tp_level":316.79999999999984},{"entry_time":"2025-04-10T05:27:14.322704","type":"bullish","entry_price":310.1,"stop_loss":264.5,"tp_level":446.9000000000001},{"entry_time":"2025-04-10T05:42:14.322704","type":"bullish","entry_price":311.1,"stop_loss":309.2,"tp_level":316.8000000000001},{"entry_time":"2025-04-10T05:57:14.322704","type":"bullish","entry_price":311.9,"stop_loss":310.1,"tp_level":317.29999999999984},{"entry_time":"2025-04-10T06:12:14.322704","type":"bullish","entry_price":312.8,"stop_loss":311.1,"tp_level":317.9},{"entry_time":"2025-04-10T06:27:14.322704","type":"bullish","entry_price":313.8,"stop_loss":311.9,"tp_level":319.5000000000001},{"entry_time":"2025-04-10T06:42:14.322704","type":"bullish","entry_price":314.6,"stop_loss":312.8,"tp_level":320.00000000000006},{"entry_time":"2025-04-10T06:57:14.322704","type":"bullish","entry_price":315.5,"stop_loss":313.8,"tp_level":320.59999999999997},{"entry_time":"2025-04-10T07:12:14.322704","type":"bullish","entry_price":316.5,"stop_loss":314.6,"tp_level":322.19999999999993},{"entry_time":"2025-04-10T07:27:14.322704","type":"bullish","entry_price":317.3,"stop_loss":315.5,"tp_level":322.70000000000005},{"entry_time":"2025-04-10T07:42:14.322704","type":"bullish","entry_price":318.2,"stop_loss":316.5,"tp_level":323.29999999999995},{"entry_time":"2025-04-10T07:57:14.322704","type":"bullish","entry_price":319.2,"stop_loss":317.3,"tp_level":324.8999999999999},{"entry_time":"2025-04-10T08:12:14.322704","type":"bullish","entry_price":320.0,"stop_loss":318.2,"tp_level":325.40000000000003},{"entry_time":"2025-04-10T08:27:14.322704","type":"bullish","entry_price":320.9,"stop_loss":319.2,"tp_level":325.99999999999994},{"entry_time":"2025-04-10T08:42:14.322704","type":"bullish","entry_price":264.8,"stop_loss":320.0,"tp_level":99.20000000000005},{"entry_time":"2025-04-10T08:57:14.322704","type":"bearish","entry_price":324.9,"stop_loss":323.1,"tp_level":330.29999999999984},{"entry_time":"2025-04-10T09:12:14.322704","type":"bullish","entry_price":323.6,"stop_loss":264.8,"tp_level":500.00000000000006},{"entry_time":"2025-04-10T09:27:14.322704","type":"bullish","entry_price":324.6,"stop_loss":322.7,"tp_level":330.3000000000001},{"entry_time":"2025-04-10T09:42:14.322704","type":"bullish","entry_price":325.4,"stop_loss":323.6,"tp_level":330.79999999999984},{"entry_time":"2025-04-10T09:57:14.322704","type":"bullish","entry_price":326.3,"stop_loss":324.6,"tp_level":331.4},{"entry_time":"2025-04-10T10:12:14.322704","type":"bullish","entry_price":327.3,"stop_loss":325.4,"tp_level":333.0000000000001},{"entry_time":"2025-04-10T10:27:14.322704","type":"bullish","entry_price":328.1,"stop_loss":326.3,"tp_level":333.50000000000006},{"entry_time":"2025-04-10T10:42:14.322704","type":"bullish","entry_price":329.0,"stop_loss":327.3,"tp_level":334.09999999999997},{"entry_time":"2025-04-10T10:57:14.322704","type":"bullish","entry_price":330.0,"stop_loss":328.1,"tp_level":335.69999999999993},{"entry_time":"2025-04-10T11:12:14.322704","type":"bullish","entry_price":330.0,"stop_loss":329.0,"tp_level":333.0},{"entry_time":"2025-04-10T11:27:14.322704","type":"bullish","entry_price":327.5,"stop_loss":330.0,"tp_level":320.0}]}]}
+{
+    "result": [
+        {
+            "strategy": "In-Price Entry",
+            "entries": [
+                {
+                    "entry_time": "2025-04-09T14:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 257.1,
+                    "stop_loss": 255.2,
+                    "tp_level": 262.8000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T14:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 257.9,
+                    "stop_loss": 256.1,
+                    "tp_level": 263.29999999999984
+                },
+                {
+                    "entry_time": "2025-04-09T15:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 258.8,
+                    "stop_loss": 257.1,
+                    "tp_level": 263.9
+                },
+                {
+                    "entry_time": "2025-04-09T15:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 259.8,
+                    "stop_loss": 257.9,
+                    "tp_level": 265.5000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T15:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 260.6,
+                    "stop_loss": 258.8,
+                    "tp_level": 266.00000000000006
+                },
+                {
+                    "entry_time": "2025-04-09T15:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 261.5,
+                    "stop_loss": 259.8,
+                    "tp_level": 266.59999999999997
+                },
+                {
+                    "entry_time": "2025-04-09T16:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 262.5,
+                    "stop_loss": 260.6,
+                    "tp_level": 268.19999999999993
+                },
+                {
+                    "entry_time": "2025-04-09T16:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 263.3,
+                    "stop_loss": 261.5,
+                    "tp_level": 268.70000000000005
+                },
+                {
+                    "entry_time": "2025-04-09T16:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 264.2,
+                    "stop_loss": 262.5,
+                    "tp_level": 269.29999999999995
+                },
+                {
+                    "entry_time": "2025-04-09T16:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 265.2,
+                    "stop_loss": 263.3,
+                    "tp_level": 270.8999999999999
+                },
+                {
+                    "entry_time": "2025-04-09T17:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 266.0,
+                    "stop_loss": 264.2,
+                    "tp_level": 271.40000000000003
+                },
+                {
+                    "entry_time": "2025-04-09T17:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 266.9,
+                    "stop_loss": 265.2,
+                    "tp_level": 271.99999999999994
+                },
+                {
+                    "entry_time": "2025-04-09T17:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 267.9,
+                    "stop_loss": 266.0,
+                    "tp_level": 273.5999999999999
+                },
+                {
+                    "entry_time": "2025-04-09T17:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 268.7,
+                    "stop_loss": 266.9,
+                    "tp_level": 274.1
+                },
+                {
+                    "entry_time": "2025-04-09T18:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 269.6,
+                    "stop_loss": 267.9,
+                    "tp_level": 274.70000000000016
+                },
+                {
+                    "entry_time": "2025-04-09T18:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 270.6,
+                    "stop_loss": 268.7,
+                    "tp_level": 276.3000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T18:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 271.4,
+                    "stop_loss": 269.6,
+                    "tp_level": 276.79999999999984
+                },
+                {
+                    "entry_time": "2025-04-09T18:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 272.3,
+                    "stop_loss": 270.6,
+                    "tp_level": 277.4
+                },
+                {
+                    "entry_time": "2025-04-09T19:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 273.3,
+                    "stop_loss": 271.4,
+                    "tp_level": 279.0000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T19:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 274.1,
+                    "stop_loss": 272.3,
+                    "tp_level": 279.50000000000006
+                },
+                {
+                    "entry_time": "2025-04-09T19:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 275.0,
+                    "stop_loss": 273.3,
+                    "tp_level": 280.09999999999997
+                },
+                {
+                    "entry_time": "2025-04-09T19:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 276.0,
+                    "stop_loss": 274.1,
+                    "tp_level": 281.69999999999993
+                },
+                {
+                    "entry_time": "2025-04-09T20:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 276.8,
+                    "stop_loss": 275.0,
+                    "tp_level": 282.20000000000005
+                },
+                {
+                    "entry_time": "2025-04-09T20:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 277.7,
+                    "stop_loss": 276.0,
+                    "tp_level": 282.79999999999995
+                },
+                {
+                    "entry_time": "2025-04-09T20:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 278.7,
+                    "stop_loss": 276.8,
+                    "tp_level": 284.3999999999999
+                },
+                {
+                    "entry_time": "2025-04-09T20:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 279.5,
+                    "stop_loss": 277.7,
+                    "tp_level": 284.90000000000003
+                },
+                {
+                    "entry_time": "2025-04-09T21:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 280.4,
+                    "stop_loss": 278.7,
+                    "tp_level": 285.49999999999994
+                },
+                {
+                    "entry_time": "2025-04-09T21:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 281.4,
+                    "stop_loss": 279.5,
+                    "tp_level": 287.0999999999999
+                },
+                {
+                    "entry_time": "2025-04-09T21:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 282.2,
+                    "stop_loss": 280.4,
+                    "tp_level": 287.6
+                },
+                {
+                    "entry_time": "2025-04-09T21:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 283.1,
+                    "stop_loss": 281.4,
+                    "tp_level": 288.20000000000016
+                },
+                {
+                    "entry_time": "2025-04-09T22:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 284.1,
+                    "stop_loss": 282.2,
+                    "tp_level": 289.8000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T22:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 284.9,
+                    "stop_loss": 283.1,
+                    "tp_level": 290.29999999999984
+                },
+                {
+                    "entry_time": "2025-04-09T22:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 285.8,
+                    "stop_loss": 284.1,
+                    "tp_level": 290.9
+                },
+                {
+                    "entry_time": "2025-04-09T22:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 286.8,
+                    "stop_loss": 284.9,
+                    "tp_level": 292.5000000000001
+                },
+                {
+                    "entry_time": "2025-04-09T23:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 287.6,
+                    "stop_loss": 285.8,
+                    "tp_level": 293.00000000000006
+                },
+                {
+                    "entry_time": "2025-04-09T23:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 288.5,
+                    "stop_loss": 286.8,
+                    "tp_level": 293.59999999999997
+                },
+                {
+                    "entry_time": "2025-04-09T23:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 289.5,
+                    "stop_loss": 287.6,
+                    "tp_level": 295.19999999999993
+                },
+                {
+                    "entry_time": "2025-04-09T23:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 290.3,
+                    "stop_loss": 288.5,
+                    "tp_level": 295.70000000000005
+                },
+                {
+                    "entry_time": "2025-04-10T00:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 291.2,
+                    "stop_loss": 289.5,
+                    "tp_level": 296.29999999999995
+                },
+                {
+                    "entry_time": "2025-04-10T00:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 292.2,
+                    "stop_loss": 290.3,
+                    "tp_level": 297.8999999999999
+                },
+                {
+                    "entry_time": "2025-04-10T00:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 293.0,
+                    "stop_loss": 291.2,
+                    "tp_level": 298.40000000000003
+                },
+                {
+                    "entry_time": "2025-04-10T00:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 293.9,
+                    "stop_loss": 292.2,
+                    "tp_level": 298.99999999999994
+                },
+                {
+                    "entry_time": "2025-04-10T01:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 294.9,
+                    "stop_loss": 293.0,
+                    "tp_level": 300.5999999999999
+                },
+                {
+                    "entry_time": "2025-04-10T01:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 295.7,
+                    "stop_loss": 293.9,
+                    "tp_level": 301.1
+                },
+                {
+                    "entry_time": "2025-04-10T01:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 296.6,
+                    "stop_loss": 294.9,
+                    "tp_level": 301.70000000000016
+                },
+                {
+                    "entry_time": "2025-04-10T01:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 297.6,
+                    "stop_loss": 295.7,
+                    "tp_level": 303.3000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T02:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 298.4,
+                    "stop_loss": 296.6,
+                    "tp_level": 303.79999999999984
+                },
+                {
+                    "entry_time": "2025-04-10T02:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 299.3,
+                    "stop_loss": 297.6,
+                    "tp_level": 304.4
+                },
+                {
+                    "entry_time": "2025-04-10T02:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 300.3,
+                    "stop_loss": 298.4,
+                    "tp_level": 306.0000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T02:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 301.1,
+                    "stop_loss": 299.3,
+                    "tp_level": 306.50000000000006
+                },
+                {
+                    "entry_time": "2025-04-10T03:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 302.0,
+                    "stop_loss": 300.3,
+                    "tp_level": 307.09999999999997
+                },
+                {
+                    "entry_time": "2025-04-10T03:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 303.0,
+                    "stop_loss": 301.1,
+                    "tp_level": 308.69999999999993
+                },
+                {
+                    "entry_time": "2025-04-10T03:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 303.8,
+                    "stop_loss": 302.0,
+                    "tp_level": 309.20000000000005
+                },
+                {
+                    "entry_time": "2025-04-10T03:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 304.7,
+                    "stop_loss": 303.0,
+                    "tp_level": 309.79999999999995
+                },
+                {
+                    "entry_time": "2025-04-10T04:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 305.7,
+                    "stop_loss": 303.8,
+                    "tp_level": 311.3999999999999
+                },
+                {
+                    "entry_time": "2025-04-10T04:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 306.5,
+                    "stop_loss": 304.7,
+                    "tp_level": 311.90000000000003
+                },
+                {
+                    "entry_time": "2025-04-10T04:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 307.4,
+                    "stop_loss": 305.7,
+                    "tp_level": 312.49999999999994
+                },
+                {
+                    "entry_time": "2025-04-10T04:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 264.5,
+                    "stop_loss": 306.5,
+                    "tp_level": 138.5
+                },
+                {
+                    "entry_time": "2025-04-10T05:12:14.322704",
+                    "type": "bearish",
+                    "entry_price": 311.4,
+                    "stop_loss": 309.6,
+                    "tp_level": 316.79999999999984
+                },
+                {
+                    "entry_time": "2025-04-10T05:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 310.1,
+                    "stop_loss": 264.5,
+                    "tp_level": 446.9000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T05:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 311.1,
+                    "stop_loss": 309.2,
+                    "tp_level": 316.8000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T05:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 311.9,
+                    "stop_loss": 310.1,
+                    "tp_level": 317.29999999999984
+                },
+                {
+                    "entry_time": "2025-04-10T06:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 312.8,
+                    "stop_loss": 311.1,
+                    "tp_level": 317.9
+                },
+                {
+                    "entry_time": "2025-04-10T06:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 313.8,
+                    "stop_loss": 311.9,
+                    "tp_level": 319.5000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T06:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 314.6,
+                    "stop_loss": 312.8,
+                    "tp_level": 320.00000000000006
+                },
+                {
+                    "entry_time": "2025-04-10T06:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 315.5,
+                    "stop_loss": 313.8,
+                    "tp_level": 320.59999999999997
+                },
+                {
+                    "entry_time": "2025-04-10T07:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 316.5,
+                    "stop_loss": 314.6,
+                    "tp_level": 322.19999999999993
+                },
+                {
+                    "entry_time": "2025-04-10T07:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 317.3,
+                    "stop_loss": 315.5,
+                    "tp_level": 322.70000000000005
+                },
+                {
+                    "entry_time": "2025-04-10T07:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 318.2,
+                    "stop_loss": 316.5,
+                    "tp_level": 323.29999999999995
+                },
+                {
+                    "entry_time": "2025-04-10T07:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 319.2,
+                    "stop_loss": 317.3,
+                    "tp_level": 324.8999999999999
+                },
+                {
+                    "entry_time": "2025-04-10T08:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 320.0,
+                    "stop_loss": 318.2,
+                    "tp_level": 325.40000000000003
+                },
+                {
+                    "entry_time": "2025-04-10T08:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 320.9,
+                    "stop_loss": 319.2,
+                    "tp_level": 325.99999999999994
+                },
+                {
+                    "entry_time": "2025-04-10T08:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 264.8,
+                    "stop_loss": 320.0,
+                    "tp_level": 99.20000000000005
+                },
+                {
+                    "entry_time": "2025-04-10T08:57:14.322704",
+                    "type": "bearish",
+                    "entry_price": 324.9,
+                    "stop_loss": 323.1,
+                    "tp_level": 330.29999999999984
+                },
+                {
+                    "entry_time": "2025-04-10T09:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 323.6,
+                    "stop_loss": 264.8,
+                    "tp_level": 500.00000000000006
+                },
+                {
+                    "entry_time": "2025-04-10T09:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 324.6,
+                    "stop_loss": 322.7,
+                    "tp_level": 330.3000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T09:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 325.4,
+                    "stop_loss": 323.6,
+                    "tp_level": 330.79999999999984
+                },
+                {
+                    "entry_time": "2025-04-10T09:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 326.3,
+                    "stop_loss": 324.6,
+                    "tp_level": 331.4
+                },
+                {
+                    "entry_time": "2025-04-10T10:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 327.3,
+                    "stop_loss": 325.4,
+                    "tp_level": 333.0000000000001
+                },
+                {
+                    "entry_time": "2025-04-10T10:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 328.1,
+                    "stop_loss": 326.3,
+                    "tp_level": 333.50000000000006
+                },
+                {
+                    "entry_time": "2025-04-10T10:42:14.322704",
+                    "type": "bullish",
+                    "entry_price": 329.0,
+                    "stop_loss": 327.3,
+                    "tp_level": 334.09999999999997
+                },
+                {
+                    "entry_time": "2025-04-10T10:57:14.322704",
+                    "type": "bullish",
+                    "entry_price": 330.0,
+                    "stop_loss": 328.1,
+                    "tp_level": 335.69999999999993
+                },
+                {
+                    "entry_time": "2025-04-10T11:12:14.322704",
+                    "type": "bullish",
+                    "entry_price": 330.0,
+                    "stop_loss": 329.0,
+                    "tp_level": 333.0
+                },
+                {
+                    "entry_time": "2025-04-10T11:27:14.322704",
+                    "type": "bullish",
+                    "entry_price": 327.5,
+                    "stop_loss": 330.0,
+                    "tp_level": 320.0
+                }
+            ]
+        }
+    ]
+}
