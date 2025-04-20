@@ -34,11 +34,13 @@ Your server will start running at: `http://127.0.0.1:8000`
 
 ---
 
-## 📡 Testing via Postman
+## Testing via Postman
 
 ### 1. Open Postman
 
-- Create a **new collection**.
+You can either:
+- Create a new collection manually, or
+- Import the [Postman collection](https://github.com/vikassrini/Falcon-Reality-Assesment/blob/main/Falcon%20Reality.postman_collection.json) to get started quickly.
 
 ### 2. Configure a POST Request
 
